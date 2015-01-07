@@ -40,3 +40,4 @@ gem 'spring',        group: :development
 
 gem "parse-ruby-client"
 gem "awesome_print"
+gem "pg"
